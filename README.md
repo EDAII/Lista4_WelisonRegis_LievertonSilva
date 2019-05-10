@@ -1,4 +1,4 @@
-Lista 3 - Ordenação com `radix sort` e `heapsort` 
+Lista 4 - Ordenação com `radix sort` e `heapsort` 
 =========================
 Welison Lucas Almeida Regis - 2019.1
 
